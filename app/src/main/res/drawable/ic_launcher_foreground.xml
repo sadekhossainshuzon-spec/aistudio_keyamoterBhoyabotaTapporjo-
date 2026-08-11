@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Crescent Moon Accent -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M59,30 C51,30 45,36 45,44 C45,52 51,58 59,58 C55,58 50,54 50,44 C50,34 55,30 59,30 Z" />
+
+    <!-- Open Book Vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,48 C38,45 46,45 53,49 L53,74 C46,70 38,70 32,73 L32,48 Z M76,48 C70,45 62,45 55,49 L55,74 C62,70 70,70 76,73 L76,48 Z" />
+
+    <!-- Book Spine line -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:pathData="M54,49 L54,75" />
+</vector>

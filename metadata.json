@@ -1,0 +1,6 @@
+{
+  "name": "কেয়ামতের ভয়াবহতা ও তারপর",
+  "description": "কেয়ামতের ভয়াবহতা ও তারপর - ইসলামিক বই ও ড্যাশবোর্ড রিডার অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
